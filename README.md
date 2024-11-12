@@ -1,6 +1,11 @@
 # Saintcon Minibadge 10x10 Board
 Welcome to your new favorite soldering project! 1600+ solder joints!
 
+# 2024 Version
+There are a lot of changes in the 2024 Version and the below info does not apply. For info and assembly instructions for the 2024 version, please go [here](/2024Version/README.md).
+
+# Previous Version Instructions
+
 ## Assembly
 Aside from the obvious set of 200 8-Pin headers (they go on the side with the shiny squares!), there are a few through-hole parts you'll need to solder. They all go on the side with the shiny squares! The button and power switch don't have a set orientation. The screw terminal block is designed to have the wire openings facing the edge of the board so that you can actually put wires into it.
 
